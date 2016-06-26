@@ -1,5 +1,7 @@
 # elazar/auryn-configuration
 
+[![Build Status](https://travis-ci.org/elazar/auryn-configuration.svg?branch=master)](https://travis-ci.org/elazar/auryn-configuration)
+
 Modularized configurations for the [Auryn](https://github.com/rdlowrey/Auryn) dependency injector
 
 ## License
